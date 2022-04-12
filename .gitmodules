@@ -1,0 +1,3 @@
+[submodule "inorganic"]
+	path = vendor/inorganic
+	url = https://github.com/karlicoss/inorganic.git
