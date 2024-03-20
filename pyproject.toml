@@ -11,7 +11,7 @@ todotxtio = "^0.2.3"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^4.0.1"
-black = "^22.3.0"
+black = "^24.3.0"
 reorder-python-imports = "^3.0.1"
 pre-commit = "^2.18.1"
 
